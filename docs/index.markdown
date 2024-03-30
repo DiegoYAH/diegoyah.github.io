@@ -5,5 +5,5 @@
 layout: home
 --- 
 
-
-<!-- | ![profile](./images/profile.jpeg) | Diego Amador| -->
+### Perfil profesional 1
+| ![profile](./images/profile.jpeg) | Diego Amador|
